@@ -10,6 +10,7 @@ keywords = ["image", "background","cli"]
 categories = ["command-line-utilities"]
 license = "MIT OR Apache-2.0"
 publish = true
+exclude = ["**/*.jpg","**/*.png"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
