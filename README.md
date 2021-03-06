@@ -12,4 +12,4 @@ scut [image] [mask image] [output file name]
 ### Mask
 ![An even larger mask image](https://github.com/mocsy/supercut/blob/main/mask_4k.png?raw=true)
 ### After
-![Result 4k](https://github.com/mocsy/supercut/blob/main/result_4k.jpg?raw=true)
+![Result 4k](https://github.com/mocsy/supercut/blob/main/result_4k.png?raw=true)

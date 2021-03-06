@@ -1,7 +1,7 @@
 [package]
 name = "supercut"
 description = "A cli tool and lib to cut images using a mask."
-version = "0.1.0"
+version = "0.1.1-alpha.0"
 authors = ["Andras Mocsary <425404+mocsy@users.noreply.github.com>"]
 edition = "2018"
 repository = "https://github.com/mocsy/supercut"
